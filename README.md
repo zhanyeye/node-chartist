@@ -1,4 +1,4 @@
-# node-chartist
+# chartist-alpha
 
 > SVG Charts on the server.
 
@@ -9,7 +9,7 @@ Node Chartist is a functional server-side wrapper for the popular [Chartist](htt
 # Installation
 
 ```sh
-npm i chartist-revised
+npm i chartist-alpha
 ```
 
 The accompanying CSS can be found at `dist/main.css` after installation.

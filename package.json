@@ -1,6 +1,6 @@
 {
-  "name": "chartist-revised",
-  "version": "1.0.0",
+  "name": "chartist-alpha",
+  "version": "1.0.1",
   "description": "SVG Charts on the server.",
   "author": "",
   "license": "Unlicense",
@@ -52,5 +52,8 @@
   "bugs": {
     "url": "https://github.com/zhanyeye/node-chartist-revised/issues"
   },
-  "homepage": "https://github.com/zhanyeye/node-chartist-revised#readme"
+  "homepage": "https://github.com/zhanyeye/node-chartist-revised#readme",
+  "keywords": [
+    "chartist"
+  ]
 }
