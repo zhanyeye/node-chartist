@@ -9,7 +9,7 @@ Node Chartist is a functional server-side wrapper for the popular [Chartist](htt
 # Installation
 
 ```sh
-npm install node-chartist
+npm i chartist-revised
 ```
 
 The accompanying CSS can be found at `dist/main.css` after installation.

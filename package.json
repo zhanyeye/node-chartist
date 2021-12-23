@@ -1,5 +1,5 @@
 {
-  "name": "node-chartist-revised",
+  "name": "chartist-revised",
   "version": "1.0.0",
   "description": "SVG Charts on the server.",
   "author": "",
@@ -40,5 +40,17 @@
     "pretest": "npm run build",
     "test": "mocha",
     "watch": "watch 'npm run build' ./lib ./node_modules"
-  }
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhanyeye/node-chartist-revised.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zhanyeye/node-chartist-revised/issues"
+  },
+  "homepage": "https://github.com/zhanyeye/node-chartist-revised#readme"
 }
